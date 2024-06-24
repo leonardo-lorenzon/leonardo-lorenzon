@@ -1,16 +1,28 @@
-## Hi there 👋
+# Welcome 👋
 
-<!--
-**leonardo-lorenzon/leonardo-lorenzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Leonardo, a software engineer from Brazil.
 
-Here are some ideas to get you started:
+## Portfolio
+Here are some personal projects I've built.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Card Manager
+**Repository:** https://github.com/leonardo-lorenzon/CardManager
+
+This is an application I created to teach unit testing patterns and refactoring techniques that make tests easy to write and extend.
+
+Take a look on the commits of this [MR](https://github.com/leonardo-lorenzon/CardManager/pull/1/commits).
+Each commit is a single pattern or technique. You can compare it side-by-side with the previous code.
+
+### Integrator Project
+**Repository:** https://github.com/leonardo-lorenzon/projeto-integrador-1-backend
+
+A backend service for the university's Integrated Project discipline.
+
+Here you can check my skills with Docker and Docker Compose. Go ahead, try setting up this application on your machine, it's very easy.
+Just make sure you meet the requirements in the _Prerequisites_ section and then run `make build` and `make start`.
+That's it, you can now play around with the APIs in localhost swagger.
+
+### Trade in the End
+**Repository:** https://github.com/leonardo-lorenzon/trade-in-the-end
+
+A backend service I created to implement a design concept I was reading about.
