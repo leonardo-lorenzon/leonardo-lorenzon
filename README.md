@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm Leonardo, a software engineer from Brazil.
+I'm [Leonardo](https://www.linkedin.com/in/leonardo-busato-lorenzon/), a software engineer from Brazil.
 
 ## Portfolio
 Here are some personal projects I've built.
