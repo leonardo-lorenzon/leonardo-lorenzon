@@ -8,7 +8,7 @@ Here are some personal projects I've built.
 ### Card Manager
 **Repository:** https://github.com/leonardo-lorenzon/CardManager
 
-This is an application I created to teach unit testing patterns and refactoring techniques that make tests easy to write and extend.
+This is an application I created to teach unit testing patterns and refactoring techniques that make tests easy to write and maintain.
 
 Take a look on the commits of this [MR](https://github.com/leonardo-lorenzon/CardManager/pull/1/commits).
 Each commit is a single pattern or technique. You can compare it side-by-side with the previous code.
