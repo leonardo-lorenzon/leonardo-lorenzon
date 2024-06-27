@@ -25,4 +25,4 @@ That's it, you can now play around with the APIs in localhost swagger.
 ### Trade in the End
 **Repository:** https://github.com/leonardo-lorenzon/trade-in-the-end
 
-A backend service I created to implement a design concept I was reading about.
+A backend service I created to implement a design concept I was reading about. The arquitecture is based on the Hexagonal architecture also known as Ports & Adapters.
