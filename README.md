@@ -10,7 +10,7 @@ Here are some personal projects I've built.
 
 This is an application I created to teach unit testing patterns and refactoring techniques that make tests easy to write and maintain.
 
-Take a look on the commits of this [MR](https://github.com/leonardo-lorenzon/CardManager/pull/1/commits).
+Take a look on the commits of this [PR](https://github.com/leonardo-lorenzon/CardManager/pull/1/commits).
 Each commit is a single pattern or technique. You can compare it side-by-side with the previous code.
 
 ### Integrator Project
