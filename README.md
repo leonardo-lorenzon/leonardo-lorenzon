@@ -3,7 +3,7 @@
 I'm [Leonardo](https://www.linkedin.com/in/leonardo-busato-lorenzon/), a software engineer from Brazil.
 
 ## Portfolio
-Here are some personal projects I've built.
+Here are some personal projects I created to showcase some of my work and skills.
 
 ### Card Manager
 **Repository:** https://github.com/leonardo-lorenzon/CardManager
